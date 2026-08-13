@@ -3,7 +3,7 @@ A collection of 'Synth DIY' projects done by L.Geerinckx.
 
 
 ## Learning
-* [SDIY Building Blocks](https://github.com/PierreIsCoding/sdiy/tree/main/Building_Blocks) An overview of important SDIY building blocks.
+* [SDIY Building Blocks](https://pierreiscoding.github.io/building/) An overview of important SDIY building blocks.
 
 
 ## VCA's
@@ -18,6 +18,7 @@ A collection of 'Synth DIY' projects done by L.Geerinckx.
 * [Digital Sample And Hold](https://github.com/PierreIsCoding/sdiy/tree/main/Digital_Sample_And_Hold) A Digital Sample And Hold with lots of extras.
 * [Sequential Switch](https://github.com/PierreIsCoding/sdiy/tree/main/Sequential_Switch) A sequential switch, sequencer and manual button module.
 * [Quantizer](https://github.com/PierreIsCoding/sdiy/tree/main/Quantizer). A simple but powerful quantizer.
+* [The Breadwinner](https://github.com/PierreIsCoding/sdiy/tree/main/the_breadwinner). A massiv analog sequencer.
 
 
 ## Gates
@@ -28,10 +29,14 @@ A collection of 'Synth DIY' projects done by L.Geerinckx.
 
 ## Envelopes
 * [Spark](https://github.com/PierreIsCoding/sdiy/tree/main/Spark) An analog burst generator.
+* [VCD](https://github.com/PierreIsCoding/sdiy/tree/main/VCD) A voltage controlled decay generator
 
+## Drums
+* [Alter Normal](https://github.com/PierreIsCoding/sdiy/tree/main/Alter_Normal) Analog High-Hat.
 
 ## Effects
 * [Wave Folder](https://github.com/PierreIsCoding/sdiy/tree/main/Wavefolder) A pcb design of a wavefolder.
+* [Swoop](https://github.com/PierreIsCoding/sdiy/tree/main/Swoop) A 2:2 switch and wave shaper.
 
 
 ## Utilities
@@ -47,6 +52,9 @@ A collection of 'Synth DIY' projects done by L.Geerinckx.
 * [Skiff Case](https://github.com/PierreIsCoding/sdiy/tree/main/Eurorack_Case) A manual for building a skiff case.
 * [Misc](https://github.com/PierreIsCoding/sdiy/tree/main/misc) Some other stuff.
 
+## Experiments
+* [DrumPad](https://github.com/PierreIsCoding/sdiy/tree/main/drumpad) A restive based touch panel
+* [HelperBoards](https://github.com/PierreIsCoding/sdiy/tree/main/helper_boards) Experimental helperboards
 -------------------------
 
 # Oldies But Goodies
